@@ -17,9 +17,9 @@
     
     2. test the api
     
-    ![alt text](https://github.com/xerocopy/FastAPI/blob/77c99873c352ae51af7a78a5238432ddff28ff67/img/1.PNG)
+![alt text](https://github.com/xerocopy/FastAPI/blob/77c99873c352ae51af7a78a5238432ddff28ff67/img/1.PNG)
     
-    ![alt text](https://github.com/xerocopy/FastAPI/blob/77c99873c352ae51af7a78a5238432ddff28ff67/img/2.PNG)
+![alt text](https://github.com/xerocopy/FastAPI/blob/77c99873c352ae51af7a78a5238432ddff28ff67/img/2.PNG)
     
 
 ### Notes: 
