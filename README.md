@@ -1,6 +1,8 @@
 # FastAPI
 
-### Description: Machine learning model to check banknotes' authentication.
+### Description: 
+
+Machine learning model to check banknotes' authentication.
 
 ### Assets: 
     1. notebook and exported pkl model: 
